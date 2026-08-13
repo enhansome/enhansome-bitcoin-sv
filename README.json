@@ -1,0 +1,193 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "MetaNet"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A no-framework, no-dependencies, customizable, animate-able, SVG-based HTML element.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-28T22:38:55Z",
+            "owner": "bitjson",
+            "repo": "qr-code",
+            "stars": 1380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitcoin SV Lib",
+          "description": "A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-20T13:54:27Z",
+            "owner": "moneybutton",
+            "repo": "bsv",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BitSV",
+          "description": "An easy-to-use Python 3, Bitcoin SV library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-05T20:38:43Z",
+            "owner": "AustEcon",
+            "repo": "bitsv",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Electrum Client",
+          "description": "Electrum Protocol Client for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-01T11:53:44Z",
+            "owner": "you21979",
+            "repo": "node-electrum-client",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bitcoinfilesjs",
+          "description": "A JavaScript Library for building transactions for Bitcoin Files Protocol (BFP). SDK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-12T04:50:12Z",
+            "owner": "simpleledger",
+            "repo": "BitcoinFilesJS",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ECIES - Encrypt message with Bitcoin PublicKey, decrypt it with PrivateKey. BIE1 format, Electrum/Electron Cash Compatible. JavaScript",
+          "description": "/Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-14T06:53:35Z",
+            "owner": "monkeylord",
+            "repo": "electrum-ecies",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Datapay",
+          "description": "Build and broadcast data transactions to the Bitcoin SV blockchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-02T20:20:25Z",
+            "owner": "unwriter",
+            "repo": "datapay",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bottle",
+          "description": "A bitcoin browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-12-08T18:23:41Z",
+            "owner": "interplanaria",
+            "repo": "bottle",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "B Protocol",
+          "description": "Bitcoin Simple Storage Protocol. Try it",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-04-12T11:35:26Z",
+            "owner": "unwriter",
+            "repo": "B",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "planter",
+          "description": "A library for fetching and creating Metanet nodes on the Bitcoin SV blockchain.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-11-12T17:06:18Z",
+            "owner": "MerlinB",
+            "repo": "planter",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paymail",
+          "description": "BSV paymail protocol. express implementation client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-23T21:37:40Z",
+            "owner": "bitcoin-sv-specs",
+            "repo": "brfc-paymail",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "To the extent possible under law, Monkeylord has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:19:59.076Z",
+    "original_repository": "monkeylord/awesome-bitcoin-sv",
+    "original_repository_sha": "28ec5f73da2ea6151bb698020bf373c74e1ec8e1",
+    "enhanced_repository": "enhansome/enhansome-bitcoin-sv",
+    "enhanced_repository_description": null,
+    "title": "awesome-bitcoin-sv with stars"
+  }
+}
