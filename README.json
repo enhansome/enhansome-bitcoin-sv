@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "MetaNet"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Applications"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 607068506,
             "language": "TypeScript",
             "last_commit": "2023-02-28T22:38:55Z",
             "owner": "bitjson",
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159703776,
             "language": "JavaScript",
             "last_commit": "2023-11-20T13:54:27Z",
             "owner": "moneybutton",
@@ -48,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167746495,
             "language": "Python",
             "last_commit": "2022-05-05T20:38:43Z",
             "owner": "AustEcon",
@@ -62,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95083229,
             "language": "JavaScript",
             "last_commit": "2023-11-01T11:53:44Z",
             "owner": "you21979",
@@ -76,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149874188,
             "language": "TypeScript",
             "last_commit": "2022-12-12T04:50:12Z",
             "owner": "simpleledger",
@@ -90,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162673449,
             "language": "JavaScript",
             "last_commit": "2020-05-14T06:53:35Z",
             "owner": "monkeylord",
@@ -101,7 +97,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -110,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168374929,
             "language": "JavaScript",
             "last_commit": "2023-03-02T20:20:25Z",
             "owner": "unwriter",
@@ -124,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176957131,
             "language": "CSS",
             "last_commit": "2022-12-08T18:23:41Z",
             "owner": "interplanaria",
@@ -138,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167964659,
             "language": null,
             "last_commit": "2019-04-12T11:35:26Z",
             "owner": "unwriter",
@@ -152,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 209399939,
             "language": "TypeScript",
             "last_commit": "2022-11-12T17:06:18Z",
             "owner": "MerlinB",
@@ -166,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189759629,
             "language": null,
             "last_commit": "2022-03-23T21:37:40Z",
             "owner": "bitcoin-sv-specs",
@@ -175,16 +176,12 @@
         }
       ],
       "title": "Projects"
-    },
-    {
-      "description": "To the extent possible under law, Monkeylord has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:49:43.586Z",
+    "last_updated": "2026-08-19T12:20:29.137Z",
     "original_repository": "monkeylord/awesome-bitcoin-sv",
+    "original_repository_id": 160213117,
     "original_repository_sha": "28ec5f73da2ea6151bb698020bf373c74e1ec8e1",
     "enhanced_repository": "enhansome/enhansome-bitcoin-sv",
     "enhanced_repository_description": null,
