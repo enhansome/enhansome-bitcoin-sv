@@ -179,9 +179,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:59:35.889Z",
-    "original_repository": "monkeylord/awesome-bitcoin-sv",
-    "original_repository_id": 160213117,
+    "last_updated": "2026-08-27T11:27:25.580Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 160213117,
+      "language": null,
+      "last_commit": "2023-11-29T09:13:56Z",
+      "owner": "monkeylord",
+      "repo": "awesome-bitcoin-sv",
+      "stars": 84
+    },
     "original_repository_sha": "28ec5f73da2ea6151bb698020bf373c74e1ec8e1",
     "enhanced_repository": "enhansome/enhansome-bitcoin-sv",
     "enhanced_repository_description": null,
