@@ -15,8 +15,9 @@
             "last_commit": "2023-02-28T22:38:55Z",
             "owner": "bitjson",
             "repo": "qr-code",
-            "stars": 1380
-          }
+            "stars": 1381
+          },
+          "first_seen": "2026-08-28T05:34:20.408Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "moneybutton",
             "repo": "bsv",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T05:34:20.408Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "AustEcon",
             "repo": "bitsv",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T05:34:20.408Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "you21979",
             "repo": "node-electrum-client",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T05:34:20.408Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "simpleledger",
             "repo": "BitcoinFilesJS",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:34:20.408Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "monkeylord",
             "repo": "electrum-ecies",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:34:20.408Z"
         }
       ],
       "title": "Libraries"
@@ -112,7 +118,8 @@
             "owner": "unwriter",
             "repo": "datapay",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T05:34:20.408Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "interplanaria",
             "repo": "bottle",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T05:34:20.408Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "unwriter",
             "repo": "B",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T05:34:20.408Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "MerlinB",
             "repo": "planter",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T05:34:20.408Z"
         },
         {
           "node_type": "item",
@@ -172,14 +182,15 @@
             "owner": "bitcoin-sv-specs",
             "repo": "brfc-paymail",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T05:34:20.408Z"
         }
       ],
       "title": "Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:25.580Z",
+    "last_updated": "2026-08-28T05:34:20.408Z",
     "original_repository_info": {
       "archived": false,
       "id": 160213117,
