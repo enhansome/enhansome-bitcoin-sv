@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element.",
+            "homepage": "https://qr.bitjson.com/",
             "id": 607068506,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-02-28T22:38:55Z",
+            "open_issues": 14,
             "owner": "bitjson",
             "repo": "qr-code",
-            "stars": 1381
+            "stars": 1381,
+            "topics": [
+              "animated",
+              "bch",
+              "bitcoin",
+              "bitcoin-cash",
+              "cryptocurrency",
+              "ethereum",
+              "qr-code",
+              "qr-code-component",
+              "qr-code-generator",
+              "qr-generator",
+              "stencil",
+              "svg",
+              "svg-animations",
+              "web-animations",
+              "web-component"
+            ]
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
         },
@@ -26,12 +47,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin SV javascript library",
+            "homepage": null,
             "id": 159703776,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-20T13:54:27Z",
+            "open_issues": 39,
             "owner": "moneybutton",
             "repo": "bsv",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
         },
@@ -42,12 +68,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BitSV: Bitcoin made easy. Documentation:",
+            "homepage": "https://AustEcon.github.io/bitsv",
             "id": 167746495,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-05T20:38:43Z",
+            "open_issues": 11,
             "owner": "AustEcon",
             "repo": "bitsv",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "bitcoin",
+              "bitcoinsv",
+              "bsv",
+              "crypto",
+              "python3",
+              "sv"
+            ]
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
         },
@@ -58,12 +96,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Electrum Client for node.js",
+            "homepage": null,
             "id": 95083229,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-01T11:53:44Z",
+            "open_issues": 12,
             "owner": "you21979",
             "repo": "node-electrum-client",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "bitcoin",
+              "client",
+              "electrum"
+            ]
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
         },
@@ -74,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JS Library for the Bitcoin Files Protocol",
+            "homepage": null,
             "id": 149874188,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-12T04:50:12Z",
+            "open_issues": 12,
             "owner": "simpleledger",
             "repo": "BitcoinFilesJS",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
         },
@@ -90,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JS implement of electrum's message encrypt/decrypt",
+            "homepage": null,
             "id": 162673449,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-05-14T06:53:35Z",
+            "open_issues": 1,
             "owner": "monkeylord",
             "repo": "electrum-ecies",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
         }
@@ -112,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build and broadcast data transactions to the Bitcoin SV blockchain",
+            "homepage": null,
             "id": 168374929,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-02T20:20:25Z",
+            "open_issues": 16,
             "owner": "unwriter",
             "repo": "datapay",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
         },
@@ -128,12 +190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin Browser",
+            "homepage": "https://bottle.bitdb.network",
             "id": 176957131,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-12-08T18:23:41Z",
+            "open_issues": 22,
             "owner": "interplanaria",
             "repo": "bottle",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
         },
@@ -144,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Store and reference data on the Bitcoin SV blockchain",
+            "homepage": "https://b.bitdb.network",
             "id": 167964659,
             "language": null,
+            "license": null,
             "last_commit": "2019-04-12T11:35:26Z",
+            "open_issues": 2,
             "owner": "unwriter",
             "repo": "B",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
         },
@@ -160,12 +232,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DEPRECATED]  Create Metanet Nodes on Bitcoin SV",
+            "homepage": null,
             "id": 209399939,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-11-12T17:06:18Z",
+            "open_issues": 14,
             "owner": "MerlinB",
             "repo": "planter",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "bitcoin",
+              "bitcoin-sv",
+              "bsv",
+              "metanet"
+            ]
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
         },
@@ -176,12 +258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the source repository for https://bsvalias.org/",
+            "homepage": null,
             "id": 189759629,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-23T21:37:40Z",
+            "open_issues": 4,
             "owner": "bitcoin-sv-specs",
             "repo": "brfc-paymail",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
         }
@@ -190,15 +277,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:17:17.304Z",
+    "last_updated": "2026-08-29T04:58:51.987Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of bitcoin services and tools for software developers",
+      "homepage": null,
       "id": 160213117,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-11-29T09:13:56Z",
+      "open_issues": 0,
       "owner": "monkeylord",
       "repo": "awesome-bitcoin-sv",
-      "stars": 84
+      "stars": 84,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bitcoin-sv",
+        "metanet"
+      ]
     },
     "original_repository_sha": "28ec5f73da2ea6151bb698020bf373c74e1ec8e1",
     "enhanced_repository": "enhansome/enhansome-bitcoin-sv",
