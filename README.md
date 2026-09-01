@@ -2,7 +2,7 @@
 
 > A curated list of Bitcoin SV services and tools for developers.
 
-Bitcoin SV is the original Bitcoin, so [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) ⭐ 1,351 | 🐛 17 | 📅 2026-08-28 is referred.
+Bitcoin SV is the original Bitcoin, so [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) ⭐ 1,350 | 🐛 17 | 📅 2026-08-28 is referred.
 
 What is Bitcoin SV?
 
@@ -102,7 +102,7 @@ More info [here](https://bitcoinsv.io).
 ## Projects
 
 * [Datapay](https://github.com/unwriter/datapay) ⭐ 84 | 🐛 16 | 🌐 JavaScript | 📅 2023-03-02 - Build and broadcast data transactions to the Bitcoin SV blockchain.
-* [bottle](https://github.com/interplanaria/bottle) ⭐ 84 | 🐛 22 | 🌐 CSS | 📅 2022-12-08 - A bitcoin browser.
+* [bottle](https://github.com/interplanaria/bottle) ⭐ 84 | 🐛 21 | 🌐 CSS | 📅 2022-12-08 - A bitcoin browser.
 * [B Protocol](https://github.com/unwriter/B) ⭐ 70 | 🐛 2 | 📅 2019-04-12 - Bitcoin Simple Storage Protocol. [Try it](https://b.bitdb.network)
 * [planter](https://github.com/MerlinB/planter) ⚠️ Archived - A library for fetching and creating Metanet nodes on the Bitcoin SV blockchain.
 * [paymail](https://github.com/bitcoin-sv-specs/paymail) ⭐ 12 | 🐛 4 | 📅 2022-03-23 - BSV paymail protocol. [express implementation](https://github.com/moneybutton/express-paymail) ⭐ 29 | 🐛 10 | 🌐 JavaScript | 📅 2023-09-17 [client](https://github.com/moneybutton/paymail-client) ⭐ 25 | 🐛 9 | 🌐 JavaScript | 📅 2023-01-09
