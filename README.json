@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "bitjson",
             "repo": "qr-code",
-            "stars": 1383,
+            "stars": 1382,
             "topics": [
               "animated",
               "bch",
@@ -151,7 +151,7 @@
             "open_issues": 1,
             "owner": "monkeylord",
             "repo": "electrum-ecies",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
@@ -277,7 +277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:27:57.430Z",
+    "last_updated": "2026-09-10T23:21:06.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
