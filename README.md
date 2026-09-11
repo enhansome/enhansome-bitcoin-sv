@@ -2,7 +2,7 @@
 
 > A curated list of Bitcoin SV services and tools for developers.
 
-Bitcoin SV is the original Bitcoin, so [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) ⭐ 1,351 | 🐛 19 | 📅 2026-09-05 is referred.
+Bitcoin SV is the original Bitcoin, so [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) ⭐ 1,351 | 🐛 20 | 📅 2026-09-05 is referred.
 
 What is Bitcoin SV?
 
@@ -88,7 +88,7 @@ More info [here](https://bitcoinsv.io).
 ## Libraries
 
 * [`<qr-code>`](https://github.com/bitjson/qr-code) ⭐ 1,382 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-28 – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` HTML element.
-* [Bitcoin SV Lib](https://github.com/moneybutton/bsv) ⭐ 200 | 🐛 39 | 🌐 JavaScript | 📅 2023-11-20 - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
+* [Bitcoin SV Lib](https://github.com/moneybutton/bsv) ⭐ 201 | 🐛 39 | 🌐 JavaScript | 📅 2023-11-20 - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
 * [BitSV](https://github.com/AustEcon/bitsv) ⭐ 96 | 🐛 11 | 🌐 Python | 📅 2022-05-05 - An easy-to-use Python 3, Bitcoin SV library.
 * [Electrum Client](https://github.com/you21979/node-electrum-client) ⭐ 36 | 🐛 12 | 🌐 JavaScript | 📅 2023-11-01 - Electrum Protocol Client for Node.js.
 * [bitcoinfilesjs](https://github.com/simpleledger/bitcoinfilesjs) ⭐ 18 | 🐛 12 | 🌐 TypeScript | 📅 2022-12-12 - A JavaScript Library for building transactions for Bitcoin Files Protocol (BFP). [SDK](https://github.com/BitcoinFiles/bitcoinfiles-sdk) ⭐ 40 | 🐛 20 | 🌐 JavaScript | 📅 2022-12-08
@@ -178,4 +178,4 @@ To the extent possible under law, [Monkeylord](https://github.com/monkeylord/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

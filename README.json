@@ -56,7 +56,7 @@
             "open_issues": 39,
             "owner": "moneybutton",
             "repo": "bsv",
-            "stars": 200,
+            "stars": 201,
             "topics": []
           },
           "first_seen": "2026-08-28T05:34:20.408Z"
@@ -277,7 +277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:21:06.437Z",
+    "last_updated": "2026-09-11T23:30:00.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
