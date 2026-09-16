@@ -2,7 +2,7 @@
 
 > A curated list of Bitcoin SV services and tools for developers.
 
-Bitcoin SV is the original Bitcoin, so [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) ⭐ 1,352 | 🐛 16 | 📅 2026-09-14 is referred.
+Bitcoin SV is the original Bitcoin, so [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) ⭐ 1,353 | 🐛 16 | 📅 2026-09-14 is referred.
 
 What is Bitcoin SV?
 
@@ -178,4 +178,4 @@ To the extent possible under law, [Monkeylord](https://github.com/monkeylord/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
