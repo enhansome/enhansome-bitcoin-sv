@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "bitjson",
             "repo": "qr-code",
-            "stars": 1382,
+            "stars": 1383,
             "topics": [
               "animated",
               "bch",
@@ -277,7 +277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:33:16.512Z",
+    "last_updated": "2026-10-21T00:03:31.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
